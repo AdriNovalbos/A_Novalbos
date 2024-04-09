@@ -1,1 +1,2 @@
 Este es un codigo de un programa hecho en QTcreator que permite obtener el color real y pseudocolor de una muestra obtenida a traves de unn cable se fibra con uun fotodetector, se le puede variar al pseudo-color la longitud de onda de cada componente RGB
+Ademas hay otro codigo llamado fpi el cual a raiz de una imagen que se cargue se le aplican disintos filtros a la imagen en funcion lo que interese buscar en ella
